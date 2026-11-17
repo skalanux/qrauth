@@ -1,0 +1,6 @@
+# Exports decodificados y QR generados: contienen secretos TOTP.
+/inputs/
+/out/
+
+__pycache__/
+*.py[cod]
